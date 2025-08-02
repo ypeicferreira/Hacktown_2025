@@ -1,7 +1,7 @@
 # Memory Game Project - Hacktown 2025
 
 ## Project Overview
-This Memory Game was developed with the assistance of Amazon Q during the Hacktown 2025 festival. The game demonstrates the capabilities of AI-assisted development in creating interactive Python applications.
+This Memory Game was developed with the assistance of Amazon Q Developer CLI during the Hacktown 2025 festival. The game demonstrates the capabilities of AI-assisted development in creating interactive Python applications.
 
 ## 📸 Screenshots
 
@@ -67,5 +67,6 @@ Potential improvements for future versions:
 This project is open source and available for educational purposes.
 
 ---
-*Created during Hacktown 2025 with Amazon Q Developer assistance*
+*Created during Hacktown 2025 with Amazon Q Developer CLI assistance*
+
 
