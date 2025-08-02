@@ -3,6 +3,14 @@
 ## Project Overview
 This Memory Game was developed with the assistance of Amazon Q during the Hacktown 2025 festival. The game demonstrates the capabilities of AI-assisted development in creating interactive Python applications.
 
+## 📸 Screenshots
+
+![Resposta do Prompt](imagem1.jpg)
+![Solicitando o readme](imagem2.jpg)
+![Inicio do Jogo](imagem3.jpg)
+![Meio do Jogo](imagem4.jpg)
+![Fim do Jogo](imagem5.jpg)
+
 ## Technical Details
 - **Language**: Python 3.x
 - **GUI Framework**: Tkinter
@@ -60,3 +68,4 @@ This project is open source and available for educational purposes.
 
 ---
 *Created during Hacktown 2025 with Amazon Q Developer assistance*
+
