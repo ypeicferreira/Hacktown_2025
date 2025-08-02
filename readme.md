@@ -47,7 +47,7 @@ The game is built using object-oriented programming principles with the main `Me
 4. Complete the game by matching all pairs
 
 ## 📝 Development Process
-This project showcases the collaborative potential between developers and AI assistants. Amazon Q provided:
+This project showcases the collaborative potential between developers and AI assistants. Amazon Q Developer CLI provided:
 - Code structure recommendations
 - Implementation guidance
 - Best practices integration
@@ -76,6 +76,7 @@ This project is open source and available for educational purposes.
 
 ---
 *Created during Hacktown 2025 with Amazon Q Developer CLI assistance*
+
 
 
 
